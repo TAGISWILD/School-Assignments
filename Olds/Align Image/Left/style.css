@@ -1,0 +1,66 @@
+.button {
+    background-color: #ff0000; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 27px 2px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+.buttonO {
+    background-color: #ff0000; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 27px 2px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+.button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #00ffaa;
+}
+.button1:hover {
+    background-color: #00ffaa;
+    color: white;
+}
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #ffc400;
+}
+
+.button2:hover {
+    background-color: #ffc400;
+    color: white;
+}
+.button3 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #ff00dd;
+}
+.button3:hover {
+    background-color: #ff00dd;
+    color: white;
+}
+.Company{
+    text-align: center;
+    background-color: rgba(0, 255, 0, 0.363);
+    color: rgba(0, 255, 221, 0.274);
+    font-size: 30px;
+}
+.Use{
+    text-align: center;
+    background-color:  rgba(0, 255, 0, 0.363);
+    color: linear-gradient(red, yellow);
+    font-size: 20px;
+}
